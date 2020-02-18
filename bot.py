@@ -19,4 +19,4 @@ def handle_msg(ctx):
         bot.send(ctx, str(random.randint(0, 100)))
 
 
-bot.run('127.0.0.1', 8080)
+# bot.run('127.0.0.1', 8080)
